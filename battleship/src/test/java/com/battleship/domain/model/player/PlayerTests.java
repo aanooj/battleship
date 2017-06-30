@@ -1,4 +1,4 @@
-package com.battleship.tests;
+package com.battleship.domain.model.player;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -18,7 +18,7 @@ import com.battleship.domain.model.ship.Ship;
 @WebAppConfiguration
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = {BattleshipApplication.class})
-public class PlayerDomainUnitTests {
+public class PlayerTests {
 
 	private Player newPlayer;
 	private String playerName;
