@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Place My Ship --- Snapshot capturing Snapshot of PlaceMyShip 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "padding": "20px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Welcome 
+    
+    !!!
+  </div>
+  <div
+    className="App"
+  >
+    <div
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      <button
+        className="next-submit"
+        onClick={[Function]}
+      >
+         Next
+      </button>
+      <div
+        className="ship shipUnselected"
+        onClick={[Function]}
+        role="presentation"
+      >
+        Horizontal
+      </div>
+    </div>
+  </div>
+</div>
+`;

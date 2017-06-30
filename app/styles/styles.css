@@ -1,0 +1,172 @@
+html {
+  font-family: Arial;
+  font-size: 16px;
+}
+body {
+  background: url(../images/battle-bg.jpg) repeat center 50%;
+  background-size: cover;
+}
+h1 {
+  padding: 20px;
+  font-size: 2.4rem;
+  color: #05388a;
+}
+.alignCenter {
+  text-align: center;
+}
+.indent {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #FFF;
+  border-right: 0 solid #FFF;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  background: #8eceef;
+  border-bottom: 2px solid #CCC
+}
+.indent:last-child {
+  border-right: 2px solid #FFF;
+  border-bottom: 2px solid #CCC;
+}
+.ship {
+  width: 90px;
+  margin: 30px auto 30px auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #123d54;
+  padding: 10px 20px;
+  background: -moz-linear-gradient( top, #afd9fa 0%, #588fad);
+  background: -webkit-gradient( linear, left top, left bottom, from(#afd9fa), to(#588fad));
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #003366;
+  -moz-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.5), inset 0px 0px 1px rgba(255, 255, 255, 1);
+  -webkit-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.5), inset 0px 0px 1px rgba(255, 255, 255, 1);
+  box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.5), inset 0px 0px 1px rgba(255, 255, 255, 1);
+  text-shadow: 0px -1px 0px rgba(000, 000, 000, 0.7), 0px 1px 0px rgba(255, 255, 255, 0.3);
+}
+.player-submit {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 10px 20px;
+  background: -moz-linear-gradient( top, #2dcc37 0%, #28961c);
+  background: -webkit-gradient( linear, left top, left bottom, from(#2dcc37), to(#28961c));
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 1px solid #005913;
+  -moz-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.4), inset 1px 1px 0px rgba(255, 255, 255, 0.4);
+  -webkit-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.4), inset 1px 1px 0px rgba(255, 255, 255, 0.4);
+  box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.4), inset 1px 1px 0px rgba(255, 255, 255, 0.4);
+  text-shadow: 1px 1px 2px rgba(000, 000, 000, 0.4), 0px 1px 0px rgba(037, 077, 000, 1);
+}
+.button-block {
+  width: 400px;
+  margin: 62px auto 0 auto;
+}
+.shipSelected {
+  background-color: #1a96d6;
+}
+.shipUnselected,
+.missClass {
+  background-color: #ffa473;
+}
+.user-box {
+  width: 621px;
+  height: 270px;
+  background-color: #62a6d1;
+  border-radius: 10px;
+  margin: 100px auto 0 auto;
+}
+.float-left {
+  float: left;
+}
+.clearboth {
+  clear: both;
+}
+.user-one,
+.user-two {
+  width: 48%;
+}
+.user-one {
+  height: 260px;
+  text-align: center;
+  margin-left: 20px;
+}
+input {
+  border: 1px solid #CCC;
+  background: #FFF;
+  padding: 10px;
+}
+button {
+  height: 30px;
+  background: #CCC;
+  border: 0px;
+  padding: 0 20px;
+  margin-top: 10px;
+}
+.player-title {
+  color: #393939;
+  margin: 30px 0 60px 0;
+  font-size: 30px;
+  text-align: center;
+}
+.second-player {
+  margin-right: 100px;
+}
+.battle-players {
+  width: 70%;
+  margin: 0 auto;
+}
+.registered-user {
+  font-size: 28px;
+  color: rgb(238, 238, 238);
+}
+.disablePointer {
+  pointer-events: none;
+}
+.hitClass {
+  background: green;
+}
+.gray {
+  opacity: 0.5
+}
+.hitMeClass {
+  background: red;
+}
+.missMeClass {
+  background: lightgreen;
+}
+.next-submit {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 38px;
+  display: inline-block;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 10px 20px;
+  background: -moz-linear-gradient( top, #2dcc37 0%, #28961c);
+  background: -webkit-gradient( linear, left top, left bottom, from(#2dcc37), to(#28961c));
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 1px solid #005913;
+  -moz-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.4), inset 1px 1px 0px rgba(255, 255, 255, 0.4);
+  -webkit-box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.4), inset 1px 1px 0px rgba(255, 255, 255, 0.4);
+  box-shadow: 0px 1px 3px rgba(000, 000, 000, 0.4), inset 1px 1px 0px rgba(255, 255, 255, 0.4);
+  text-shadow: 1px 1px 2px rgba(000, 000, 000, 0.4), 0px 1px 0px rgba(037, 077, 000, 1);
+}
+.bubble {
+  position: fixed;
+  top: 0;
+  right: 20px;
+  width: 350px;
+  height: 40px;
+  background: rgba(32, 48, 132, 0.41);
+  padding: 20px;
+  font-family: Arial;
+  color: #fff;
+  border-radius: 20px;
+}

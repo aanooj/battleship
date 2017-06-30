@@ -1,0 +1,524 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GamePlayArea --- Snapshot capturing Snapshot of GamePlayArea 1`] = `
+<div>
+  <div
+    className="bubble"
+  >
+    waiting for opponent
+  </div>
+  <div
+    className="battle-players"
+  >
+    <div
+      className="second-player float-left"
+    >
+      <div
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        My
+         Ship
+      </div>
+      <div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="00-r"
+            />
+            <div
+              className="indent"
+              id="01-r"
+            />
+            <div
+              className="indent"
+              id="02-r"
+            />
+            <div
+              className="indent"
+              id="03-r"
+            />
+            <div
+              className="indent"
+              id="04-r"
+            />
+            <div
+              className="indent"
+              id="05-r"
+            />
+            <div
+              className="indent"
+              id="06-r"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="10-r"
+            />
+            <div
+              className="indent"
+              id="11-r"
+            />
+            <div
+              className="indent"
+              id="12-r"
+            />
+            <div
+              className="indent"
+              id="13-r"
+            />
+            <div
+              className="indent"
+              id="14-r"
+            />
+            <div
+              className="indent"
+              id="15-r"
+            />
+            <div
+              className="indent"
+              id="16-r"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="20-r"
+            />
+            <div
+              className="indent"
+              id="21-r"
+            />
+            <div
+              className="indent"
+              id="22-r"
+            />
+            <div
+              className="indent"
+              id="23-r"
+            />
+            <div
+              className="indent"
+              id="24-r"
+            />
+            <div
+              className="indent"
+              id="25-r"
+            />
+            <div
+              className="indent"
+              id="26-r"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="30-r"
+            />
+            <div
+              className="indent"
+              id="31-r"
+            />
+            <div
+              className="indent"
+              id="32-r"
+            />
+            <div
+              className="indent"
+              id="33-r"
+            />
+            <div
+              className="indent"
+              id="34-r"
+            />
+            <div
+              className="indent"
+              id="35-r"
+            />
+            <div
+              className="indent"
+              id="36-r"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="40-r"
+            />
+            <div
+              className="indent"
+              id="41-r"
+            />
+            <div
+              className="indent"
+              id="42-r"
+            />
+            <div
+              className="indent"
+              id="43-r"
+            />
+            <div
+              className="indent"
+              id="44-r"
+            />
+            <div
+              className="indent"
+              id="45-r"
+            />
+            <div
+              className="indent"
+              id="46-r"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="50-r"
+            />
+            <div
+              className="indent"
+              id="51-r"
+            />
+            <div
+              className="indent"
+              id="52-r"
+            />
+            <div
+              className="indent"
+              id="53-r"
+            />
+            <div
+              className="indent"
+              id="54-r"
+            />
+            <div
+              className="indent"
+              id="55-r"
+            />
+            <div
+              className="indent"
+              id="56-r"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent"
+              id="60-r"
+            />
+            <div
+              className="indent"
+              id="61-r"
+            />
+            <div
+              className="indent"
+              id="62-r"
+            />
+            <div
+              className="indent"
+              id="63-r"
+            />
+            <div
+              className="indent"
+              id="64-r"
+            />
+            <div
+              className="indent"
+              id="65-r"
+            />
+            <div
+              className="indent"
+              id="66-r"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="third-class float-left"
+    >
+      <div
+        id="curp"
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        Waiting for Oponent
+         Ship
+      </div>
+      <div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="00"
+            />
+            <div
+              className="indent gray "
+              id="01"
+            />
+            <div
+              className="indent gray "
+              id="02"
+            />
+            <div
+              className="indent gray "
+              id="03"
+            />
+            <div
+              className="indent gray "
+              id="04"
+            />
+            <div
+              className="indent gray "
+              id="05"
+            />
+            <div
+              className="indent gray "
+              id="06"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="10"
+            />
+            <div
+              className="indent gray "
+              id="11"
+            />
+            <div
+              className="indent gray "
+              id="12"
+            />
+            <div
+              className="indent gray "
+              id="13"
+            />
+            <div
+              className="indent gray "
+              id="14"
+            />
+            <div
+              className="indent gray "
+              id="15"
+            />
+            <div
+              className="indent gray "
+              id="16"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="20"
+            />
+            <div
+              className="indent gray "
+              id="21"
+            />
+            <div
+              className="indent gray "
+              id="22"
+            />
+            <div
+              className="indent gray "
+              id="23"
+            />
+            <div
+              className="indent gray "
+              id="24"
+            />
+            <div
+              className="indent gray "
+              id="25"
+            />
+            <div
+              className="indent gray "
+              id="26"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="30"
+            />
+            <div
+              className="indent gray "
+              id="31"
+            />
+            <div
+              className="indent gray "
+              id="32"
+            />
+            <div
+              className="indent gray "
+              id="33"
+            />
+            <div
+              className="indent gray "
+              id="34"
+            />
+            <div
+              className="indent gray "
+              id="35"
+            />
+            <div
+              className="indent gray "
+              id="36"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="40"
+            />
+            <div
+              className="indent gray "
+              id="41"
+            />
+            <div
+              className="indent gray "
+              id="42"
+            />
+            <div
+              className="indent gray "
+              id="43"
+            />
+            <div
+              className="indent gray "
+              id="44"
+            />
+            <div
+              className="indent gray "
+              id="45"
+            />
+            <div
+              className="indent gray "
+              id="46"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="50"
+            />
+            <div
+              className="indent gray "
+              id="51"
+            />
+            <div
+              className="indent gray "
+              id="52"
+            />
+            <div
+              className="indent gray "
+              id="53"
+            />
+            <div
+              className="indent gray "
+              id="54"
+            />
+            <div
+              className="indent gray "
+              id="55"
+            />
+            <div
+              className="indent gray "
+              id="56"
+            />
+          </div>
+        </div>
+        <div>
+          <div
+            className="row"
+          >
+            <div
+              className="indent gray "
+              id="60"
+            />
+            <div
+              className="indent gray "
+              id="61"
+            />
+            <div
+              className="indent gray "
+              id="62"
+            />
+            <div
+              className="indent gray "
+              id="63"
+            />
+            <div
+              className="indent gray "
+              id="64"
+            />
+            <div
+              className="indent gray "
+              id="65"
+            />
+            <div
+              className="indent gray "
+              id="66"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

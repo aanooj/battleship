@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameoverModal --- Snapshot capturing Snapshot of GameoverModal 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "rgba(0, 0, 0, 0.5)",
+      "height": "100vh",
+      "left": "0",
+      "paddingTop": "20%",
+      "position": "absolute",
+      "textAlign": "center",
+      "top": "0",
+      "width": "100%",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "#fff",
+        "fontFamily": "Arial",
+        "fontSize": "2.4rem",
+        "margin": "0 auto",
+        "padding": "5%",
+        "width": "50%",
+      }
+    }
+  >
+    Game Over!!!
+    <br />
+    test
+    <br />
+    <button
+      className="next-submit"
+      onClick={[Function]}
+    >
+      Start New Game
+    </button>
+  </div>
+</div>
+`;

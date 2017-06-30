@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sign UP Form --- Snapshot capturing Snapshot of SignUPForm 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="user-box clearboth"
+  >
+    <div
+      className="user-one float-left"
+    >
+      <div
+        className="player-title"
+      >
+        Enter your Details
+      </div>
+      <div>
+        <input
+          id="playerName"
+          onChange={[Function]}
+          placeholder="Please Enter name"
+          type="text"
+        />
+      </div>
+      <button
+        onClick={[Function]}
+      >
+        submit
+      </button>
+    </div>
+  </div>
+</div>
+`;
